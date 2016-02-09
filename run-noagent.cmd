@@ -1,0 +1,1 @@
+@java -jar target\crypt-debug-agent-jar-with-dependencies.jar %*
